@@ -63,7 +63,7 @@ BookHaven is a dynamic PHP-based e-commerce platform designed specifically for b
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/BookHaven-PHP.git](https://github.com/sandeep0900/BookHaven-PHP)
+git clone (https://github.com/sandeep0900/BookHaven-PHP)
 ```
 
 2. Move the project to your XAMPP's htdocs directory
