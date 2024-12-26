@@ -113,14 +113,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - XAMPP development team
 - PHP development community
 
-## Contact
-
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/BookHaven-PHP
-
 ## Screenshots
 
-[Add screenshots of your application here]
+![259512995-ae258831-cf35-46a9-a925-f8a1909ab673](https://github.com/vaibhavmali-git/E-Book-Store/assets/139566561/4c4aa36f-d06e-46e0-9b9e-b34b72a85486)
 
 ---
 ⭐ Star this repo if you find it helpful!
