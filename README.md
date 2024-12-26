@@ -1,2 +1,9 @@
-# BookHaven-PHP
-BookHaven is a dynamic PHP-based e-commerce platform designed specifically for book lovers. This web application offers a seamless book shopping experience with features like user authentication, shopping cart functionality, wishlist management, and an intuitive admin panel for inventory control. Built with PHP, MySQL, and modern web technologies
+# E-Book-Store
+Responsive e-book store website. Featuring a multi-role login system, intuitive shopping cart, and streamlined checkout process, this project showcases a complete online bookstore experience. Developed with HTML, CSS, JavaScript, PHP, and MySQLi.
+
+# Screenshots of the Project
+![259512995-ae258831-cf35-46a9-a925-f8a1909ab673](https://github.com/vaibhavmali-git/E-Book-Store/assets/139566561/4c4aa36f-d06e-46e0-9b9e-b34b72a85486)
+
+
+
+
